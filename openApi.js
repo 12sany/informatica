@@ -2,7 +2,7 @@ const HSPort = 1234;
 const WSPort = 1235;
 //const ip   = "localhost";
 const ip     = "95.217.166.217";
-const path   = "/var/www/html/"; // change project path <<===|\|
+const path   = "/var/www/html/informatica"; // change project path <<===|\|
 
 const apiSHeader = {
     swaggerDefinition : {
